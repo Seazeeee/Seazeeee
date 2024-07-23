@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matt Thompson</h1>
-<h3 align="center">I am a passionate student pursuing my interst.</h3>
+<h1 align="center">Hi 👋, I'm Matthew Thompson</h1>
+<h3 align="center">I am a passionate student pursuing my interest.</h3>
 
 - 🔭 I’m currently working on [100days of Python](https://github.com/Seazeeee/100Days)
 
