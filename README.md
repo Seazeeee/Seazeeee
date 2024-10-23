@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [100days of Python](https://github.com/Seazeeee/100Days)
 
-- 🌱 I’m currently learning **Python and MySQL**
-
-- 👯 I’m looking to collaborate on [My Discord Bot](https://github.com/Seazeeee/bible-bot)
+- 🌱 I’m currently learning **Python and Data Engineering**
 
 - 🤝 I’m looking for help with **Time Management**
 
