@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **matthewthompson1113@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/matthew-thompson-112b57207](www.linkedin.com/in/matthew-thompson-112b57207)
+- 📄 Know about my experiences [www.linkedin.com/in/matthew-thompson-112b57207](www.linkedin.com/in/matthew-thompson-112b57207)]
 
 - ⚡ Fun fact **I'm obsessed with Japanese Denim and Custom Keyboards**
 
