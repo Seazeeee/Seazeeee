@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Matthew Thompson</h1>
-<h3 align="center">I am a passionate student pursuing my interest.</h3>
+# Hi there! 👋 I'm Matthew Thompson
 
-- 🔭 I’m currently working on [github.com/Seazeeee/mtg](https://github.com/Seazeeee/mtg)
+### 🚀 Passionate & Aspiring Data Engineer
 
-- 🌱 I’m currently learning **Python and Data Engineering**
+Welcome to my GitHub profile! I'm currently pursuing my interests in technology and data, with a focus on building practical solutions and learning new skills every day.
 
-- 🤝 I’m looking for help with **Time Management**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Seazeeee?tab=repositories](https://github.com/Seazeeee?tab=repositories)
+## 🔭 What I'm Working On
+- **Current Project**:
+  -  [MTG Data Analysis Tool](https://github.com/Seazeeee/mtg) - A comprehensive Magic: The Gathering data analysis end-to-end project fully hosted locally.
+  -  [Bible Bot](https://github.com/Seazeeee/bible-bot) - A discord bot that sends a daily verse and is feature rich with the ability to query via OpenAI
+- **Learning Focus**: Python programming and Data Engineering 
+## 🌱 Skills & Technologies
 
-- 💬 Ask me about **anything.**
+**Languages & Databases:**
+- Python
+- SQL (MySQL, Microsoft SQL Server)
+- HTML5 & CSS3
 
-- 📫 How to reach me **matthewthompson1113@gmail.com**
+**Cloud & Tools:**
+- Microsoft Azure
+- Git & GitHub
+- Data Engineering Tools
+- Microsoft Fabric
 
-- ⚡ Fun fact **I'm obsessed with Japanese Denim and Custom Keyboards**
+## 💡 Fun Facts About Me
+- 🎯 **Japanese Denim Enthusiast** - I'm obsessed with the craftsmanship and quality of Japanese denim brands
+- ⌨️ **Custom Keyboard Builder** - I love building and customizing mechanical keyboards for the perfect typing experience
+- 💬 **Always Happy to Chat** - Feel free to ask me about anything tech-related or my hobbies!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matthew-thompson-112b57207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew thompson" height="30" width="40" /></a>
-</p>
+## 🤝 Let's Connect!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm always interested in connecting with fellow developers, students, and anyone passionate about technology.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seazeeee&show_icons=true&locale=en" alt="seazeeee" /></p>
+**📫 Get in Touch:**
+- Email: [matthewthompson1113@gmail.com](mailto:matthewthompson1113@gmail.com)
+- LinkedIn: [Matthew Thompson](https://www.linkedin.com/in/matthew-thompson-112b57207)
+- GitHub: Browse my repositories [here](https://github.com/Seazeeee?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seazeeee&" alt="seazeeee" /></p>
+---
+
+## 📊 GitHub Stats
+
+![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seazeeee&show_icons=true&theme=default&locale=en)
+
+---
+
+*"Taste and see that the Lord is good; blessed is the one who takes refuge in him." - Psalm 34:8*
