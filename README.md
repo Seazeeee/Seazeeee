@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm currently pursuing my interests in technology 
 **Languages & Databases:**
 - Python
 - SQL (MySQL, Microsoft SQL Server)
-- HTML5 & CSS3
+- Powershell
 
 **Cloud & Tools:**
 - Microsoft Azure
